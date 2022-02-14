@@ -1,0 +1,2 @@
+# SWE
+Szoftverfejlesztés repo
